@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**PricedTuna/PricedTuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Edgar Vega
 
-Here are some ideas to get you started:
+```ts
+const edgar = {
+  role: "Full Stack Software Engineer",
+  focus: ["React", "TypeScript", "NestJS", ".NET", "Distributed Systems"],
+  currentlyLearning: ["Machine Learning", "Bioinformatics", "Rust"],
+  passions: [
+    "Building scalable systems",
+    "Clean architecture",
+    "Solving hard engineering problems"
+  ],
+  aesthetics: ["Arcane", "Spider-Verse", "Cyberpunk"],
+  favoriteCreatures: ["Whales", "Sharks", "Manta rays", "Deep-sea life"]
+}
+````
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build software with a strong focus on architecture, performance, and long-term maintainability.
+
+I enjoy turning complex ideas into clean, scalable products — from frontend experiences to distributed backend systems.
+
+Outside coding, I’m fascinated by marine ecosystems, machine learning, and visual storytelling with bold artistic direction.
+
+> “Stay curious. Build things. Go deep.”
+
+### Connect with me
+
+* Portfolio: [https://eevr.netlify.app](https://eevr.netlify.app)
+* LinkedIn: linkedin.com/in/edgarvegaruiz
