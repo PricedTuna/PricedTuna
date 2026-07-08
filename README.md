@@ -1,4 +1,4 @@
-
+![draws collage](https://github.com/PricedTuna/PricedTuna/blob/main/draws-collage.png)
 # Hi, I'm Edgar Vega
 
 ```ts
